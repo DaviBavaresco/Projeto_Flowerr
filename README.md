@@ -1,6 +1,6 @@
-# nosso_primeiro_projeto
+# Primeiro Projeto em Flutter
 
-A new Flutter project.
+Projeto desenvolvido para estudo da linguagem 
 
 ## Getting Started
 
